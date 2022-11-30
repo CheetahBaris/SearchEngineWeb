@@ -1,9 +1,7 @@
 package searchengine.dto.serachEngine;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
-import searchengine.model.entities.LemmaEntity;
+ import org.springframework.stereotype.Component;
+ import searchengine.model.entities.LemmaEntity;
 import searchengine.model.entities.IndexEntity;
 import searchengine.model.entities.PageEntity;
 import org.jsoup.Jsoup;
