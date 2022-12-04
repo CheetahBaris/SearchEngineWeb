@@ -9,7 +9,7 @@
                 <httpHeaders>
                     <property>
                         <name>Private-Token</name>
-                        <value>wtb5axJDFX9Vm_W1Lexg</value>
+                        <value>token</value>
                     </property>
                 </httpHeaders>
             </configuration>
