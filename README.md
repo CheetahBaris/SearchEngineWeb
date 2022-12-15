@@ -1,5 +1,5 @@
 # SearchEngineWeb
-Стэк технологий: Spring-Boot , RESTapi , Crud , Hibernate , Spring-Data-JPA , Thymeleaf  , MySQL , ForkJoinPool , JUnit , Maven.
+Стэк технологий: Spring-Boot , RESTapi , Crud , Hibernate , Spring-Data-JPA , Thymeleaf , Liquibase , MySQL , ForkJoinPool , JUnit , Maven.
 Приложение индексирует несколько сайтов (которые указаны в кнофигурационном файле) и записывает в бд данные. Преборазует все слова на странице в лемму(Им.п ед.ч) и считает кол-во леммы на странице(нужно для определения релевантности стр.). Выдает список ссылок по запросу сортированных по релевантности.
 1) Статистика 
 ![image](https://user-images.githubusercontent.com/85135441/204812579-ac58d88c-7633-4950-91c3-0e52565cec13.png)
