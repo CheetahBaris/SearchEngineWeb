@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/85135441/205484377-db3a1aef-f772-474c-b3a3-c48597f0364a.png)
 ![image](https://user-images.githubusercontent.com/85135441/205484379-75c7a0b0-0933-4533-afcf-d607b3db10e5.png)
 ![image](https://user-images.githubusercontent.com/85135441/205484834-6d6d2396-528c-4970-8e8f-d1723649d522.png)
-3) Поиск с подсветкой ключевых слов , с кликабельно ссылкой и с открывком из текста .
+3) Поиск с подсветкой ключевых слов , с кликабельно ссылкой и с отрывком из текста .
 ![image](https://user-images.githubusercontent.com/85135441/205484774-d001083a-9dc5-4608-bd73-a402aac85953.png)
 ![image](https://user-images.githubusercontent.com/85135441/205484775-7a74c6e1-fd9d-4ef2-b685-8a5e3bc039ee.png)
 
